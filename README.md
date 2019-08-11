@@ -1,1 +1,1 @@
-# recommender_system: Data exploration and visualizations of movie dataset. Movie recommendation systems based on correlation of ratings as well as content based recommender based on cosine similarity of text vectors
+# recommender_system: Data exploration and visualizations of IMDB data from 2006 to 2016. Movie recommendation systems based on correlation of ratings as well as content based recommender based on cosine similarity of text vectors.
